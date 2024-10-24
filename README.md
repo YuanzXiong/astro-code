@@ -2,11 +2,9 @@
 
 # pixel by pixel fitting
 
-_✨ Baseed on [uvcombine](https://github.com/keflavich/uvcombine) ✨_
-
 </div>
 
-A novel method to combine high-resolution data with large-scale missing information with low-resolution data containing the short spacing.
+get fits file of column density and temperature using pixel by pixel fitting.
 
 ## Description
 
