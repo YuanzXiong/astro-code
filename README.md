@@ -25,3 +25,5 @@ fits files of hydrogen molecular column density and temperature by pixel-by-pixe
 ### Usage:
 
 Inside python
+
+An example is avaliable [here](https://github.com/SihanJiao/J-comb/blob/main/example_omc3.ipynb).
